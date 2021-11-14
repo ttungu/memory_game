@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "name": "Luffy",
+        "image": "https://i.pinimg.com/originals/4f/e6/03/4fe6034113826bbb2dd294bdaf52fe24.jpg"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "name": "Zoro",
+        "image": "https://i.pinimg.com/originals/3a/cb/d2/3acbd2eb460a71b88727d0dc535b07fc.png"
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "name": "Sanji",
+        "image": "https://i.pinimg.com/originals/c1/73/14/c17314caee1c1424cc8688fe1c9306aa.png"
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "name": "Nami",
+        "image": "https://i.pinimg.com/originals/88/18/03/8818034820f1e55891c734cfeea89212.jpg"
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "name": "Usopp",
+        "image": "https://i.pinimg.com/474x/40/ce/51/40ce51d85aa47573ab49b837db05d500.jpg"
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "name": "Robin",
+        "image": "https://i.pinimg.com/474x/42/d9/a4/42d9a477a14e467a550e6229b00adc54.jpg"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "name": "Franky",
+        "image": "https://i.pinimg.com/originals/c8/b3/e7/c8b3e76bf234859a45d8a5a71541e326.jpg"
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "name": "Jimbe",
+        "image": "https://i.pinimg.com/originals/76/26/75/76267519e921349e8ba0d520e08aa7ff.jpg"
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "name": "Chopper",
+        "image": "https://i.pinimg.com/564x/d3/d5/d8/d3d5d82fecda156b3d58beabc407f766.jpg"
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "name": "Brook",
+        "image": "https://i.pinimg.com/originals/d6/fd/99/d6fd9998d5a261e3e490ba63edc8bb2a.jpg"
+    }
+]
